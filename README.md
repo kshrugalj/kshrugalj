@@ -17,6 +17,10 @@
 
 <br><br>
 
+<a href="https://kshrugalj.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/kshrugalj">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
