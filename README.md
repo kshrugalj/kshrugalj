@@ -3,9 +3,9 @@
 # ⚡ KSHRUGAL JANGALAPALLI ⚡
 ### **CS @ Georgia Tech (Intelligence & Cybersecurity) | Incoming @ GT HackerHouse S2**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kr_jangalapalli) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshrugalj) 
-[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/kshrugalj) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kr_jangalapalli) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshrugalj) &nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/kshrugalj) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kshrugalj@gmail.com)
 
 </div>
@@ -13,47 +13,53 @@
 ---
 
 ## 🦾 About Me
-* **Current Coordinates:** Atlanta, GA / Northwest Arkansas roots.
-* **The Mission:** Engineering hyper-scalable distributed systems, artificial intelligence pipelines, and architecting next-gen software platforms.
-* **Current Focus:** Scaling **Nexor Technologies**, driving **VibeTexting**.
-* **Pedigree:** Full-stack engineer, multi-time hackathon winner,  researcher,
+* **Current Coordinates:** Atlanta, GA / Northwest Arkansas roots
+* **The Mission:** Engineering hyper-scalable distributed systems, artificial intelligence pipelines, and next-gen software platforms
+* **Current Focus:** Scaling **Nexor Technologies** & driving **VibeTexting**
+* **Pedigree:** Full-stack engineer, multi-time hackathon winner, and security researcher
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+## 🛠️ The Arsenal
 
 ### **Languages**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ### **Frameworks & Architecture**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</p>
 
 ### **Infrastructure, Cloud & Databases**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
@@ -63,22 +69,24 @@
   * Built a full-stack music-tech crowdfunding and landing platform using Next.js, TypeScript, and Tailwind CSS.
   * Engineered a modular architecture featuring custom CSS animations and a soundbar visualizer for immersive user engagement.
   * Integrated the Resend API for automated secure contact form processing and optimized CI/CD pipelines via Vercel.
+
 * **Frontend Developer Intern @ Velric** *(Sep 2025 – Nov 2025)*
   * Implemented core website pages (Home, Contact) using Next.js, TypeScript, and Tailwind CSS focusing on responsive UI and SSR performance.
+
 * **Software Engineer Intern @ WayPave** *(Jun 2025 – Aug 2025)*
   * Developed a full-stack hiring analytics platform utilizing a Firebase backend for real-time updates and a Vue.js + Tailwind CSS frontend.
+
 * **Information Security Intern @ Arvest Bank** *(Jan 2025 – May 2025)*
   * Led the development of an enterprise-wide ransomware security awareness training program integrated with corporate LMS.
   * Built an interactive JavaScript/HTML/CSS web game to simplify complex threat mitigation concepts.
-* **Instructor @ Mathnasium - The Math Learning Center** *(Oct 2023 – May 2026)*
-  * Provided individualized math tutoring and instructional support for elementary through high school students, building foundational problem-solving skills.
+
 * **Technology Student & Researcher @ Ignite Professional Studies** *(Aug 2024 – May 2026)*
-  * *Sensory Experience Design:* Engineered the Yin and Yang Sensory Room focusing on accessibility, lighting layouts, and emotional regulation.
-  * *Computer Vision & Sports Tech:* Researched Hawk-Eye object tracking models with Zebra Technologies for sports analytics.
-  * *Cybersecurity Research:* Analyzed network security vulnerabilities and threat models in collaboration with Oklahoma Baptist University (OBU).
-  * *Traffic Optimization:* Evaluated urban mobility and signal timing efficiency with the Bentonville Traffic Unit.
-  * *VR & Cultural Tech:* Designed an immersive first-person kayaking experience (*Flow*) for Crystal Bridges Museum of American Art.
-  * *AI Healthcare & OCR:* Built automated OCR text-extraction pipelines via pytesseract and MuPDF (*LexMed*) and conceptualized VR medical education tools (*NurseAI*).
+  * **Sensory Experience Design:** Engineered the Yin and Yang Sensory Room focusing on accessibility, lighting layouts, and emotional regulation.
+  * **Computer Vision & Sports Tech:** Researched Hawk-Eye object tracking models with Zebra Technologies for sports analytics.
+  * **Cybersecurity Research:** Analyzed network security vulnerabilities and threat models in collaboration with Oklahoma Baptist University (OBU).
+  * **Traffic Optimization:** Evaluated urban mobility and signal timing efficiency with the Bentonville Traffic Unit.
+  * **VR & Cultural Tech:** Designed an immersive first-person kayaking experience (*Flow*) for Crystal Bridges Museum of American Art.
+  * **AI Healthcare & OCR:** Built automated OCR text-extraction pipelines via pytesseract and MuPDF (*LexMed*) and conceptualized VR medical education tools (*NurseAI*).
 
 ---
 
