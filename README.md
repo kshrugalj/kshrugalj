@@ -40,28 +40,39 @@ Building:
 
 # 🛠 Tech Stack
 
-**Languages**
+## Languages
 
 ```
-Python • Java • TypeScript • JavaScript • Go • Swift • Dart • SQL
+Python • Java • TypeScript • JavaScript
+Go • Swift • Dart • SQL • HTML/CSS
 ```
 
-**Frameworks**
+## Frameworks & Libraries
 
 ```
-React • Next.js • Node.js • NestJS • FastAPI • Flutter • Tailwind • Vue
+React • Next.js • Node.js • NestJS
+FastAPI • Flutter • Tailwind CSS
+Vue.js • Prisma • PyGame • Tkinter
 ```
 
-**Cloud & Infrastructure**
+## Cloud & Infrastructure
 
 ```
-AWS • Firebase • Supabase • Vercel • MongoDB • MySQL • Docker • Git
+AWS • Firebase • Supabase • Vercel
+MongoDB • MySQL • Docker • Git
+Linux • CI/CD
 ```
 
-**AI & Security**
+## AI & Security
 
 ```
-Machine Learning • Computer Vision • LLM Applications • Cybersecurity
+Machine Learning
+Computer Vision
+LLM Applications
+AI Agents
+Cybersecurity
+System Hardening
+Cloud Security
 ```
 
 ---
@@ -70,21 +81,26 @@ Machine Learning • Computer Vision • LLM Applications • Cybersecurity
 
 ## 🏫 AdmitX (formerly MirAI)
 
-AI-powered admissions intelligence platform improving the college application process.
+AI-powered admissions intelligence platform designed to improve the college application process.
 
-🏆 YC VibeCon '25 — Top 25 / 2,000+ applicants  
+🏆 YC VibeCon '25 — Top 25 / 2,000+ global applicants  
 📍 Built at Y Combinator Headquarters
 
 ---
 
 ## 🧠 Recall
 
-AI cognitive assistant focused on memory augmentation and intelligent retrieval.
+AI cognitive assistant focused on memory augmentation and intelligent information retrieval.
 
 **Focus:**
+
 ```
-AI Interfaces • Knowledge Systems • Human-Computer Interaction
+AI Interfaces
+Knowledge Systems
+Human-Computer Interaction
 ```
+
+🏆 HogHacks Finalist
 
 ---
 
@@ -93,47 +109,104 @@ AI Interfaces • Knowledge Systems • Human-Computer Interaction
 AI-driven communication platform exploring next-generation messaging experiences.
 
 **Focus:**
+
 ```
-AI • UX Engineering • Social Computing
+AI
+UX Engineering
+Social Computing
+Interactive Systems
 ```
 
 ---
 
 # 💼 Experience
 
-**Chief Architect Intern — AitheriA (2026)**  
-Built a music-tech crowdfunding platform using Next.js, TypeScript, Vercel, and Resend.
+## Chief Architect Intern — AitheriA (2026)
 
-**Software Engineer Intern — WayPave (2025)**  
-Developed real-time hiring telemetry systems using Vue.js and Firebase.
+Built a full-stack music-tech crowdfunding platform.
 
-**Frontend Developer Intern — Velric (2025)**  
+```
+Stack:
+Next.js
+TypeScript
+Vercel
+Resend API
+
+Built:
+→ Application architecture
+→ Production features
+→ Deployment pipelines
+```
+
+---
+
+## Software Engineer Intern — WayPave (2025)
+
+Developed real-time hiring telemetry systems.
+
+```
+Stack:
+Vue.js
+Firebase
+Data Visualization
+```
+
+---
+
+## Frontend Developer Intern — Velric (2025)
+
 Built modern frontend interfaces focused on performance and usability.
 
-**Information Security Intern — Arvest Bank (2025)**  
+---
+
+## Information Security Intern — Arvest Bank (2025)
+
 Developed cybersecurity awareness systems and security workflows.
 
 ---
 
-# 🏛️ Track Record
+# ⚡ Technical Milestones
 
 ```
-🥇 Arvest Hackathon
-   1st Place — Multilingual Financial AI Bot
-
 🏆 YC VibeCon '25
-   Top 25 / 2,000+ applicants
+   Top 25 / 2,000+ global applicants
+   Built MirAI at Y Combinator HQ
 
-🥈 Congressional App Challenge
-   OralScan Computer Vision Tool
 
-🥈 CyberPatriot
-   Platinum Division
+🥇 Arvest Hackathon '24
+   1st Place
+   Built multilingual financial AI chatbot
 
-🏅 Arkansas Scholastic Honor Student
 
-🎓 Bentonville Schools Foundation
-   Academic Signing Recipient
+🥈 Congressional App Challenge '25
+   2nd Place
+   Built OralScan AI vision screening tool
+
+
+🏆 HogHacks '25/'26
+   Back-to-back finalist
+   4th Place Overall
+   Built Recall + ChakraClash
+
+
+🌎 NexHacks '26
+   Global Qualifier
+   Presented AdmitX at CMU
+   800 / 7,000+ applicants
+
+
+🔐 CyberPatriot '24/'25
+   State Finalist
+   Top 5 Gold Division
+   2nd Place Platinum Division
+
+
+💻 U of A Programming Competition
+   5th & 8th Place Regional Finishes
+
+
+🏅 Arkansas Computer Science Student of Distinction
+   Statewide recognition for technical achievements
 ```
 
 ---
@@ -142,6 +215,8 @@ Developed cybersecurity awareness systems and security workflows.
 
 ```bash
 kshrugal@gt-core:~$ exit
+
+Connection terminated.
 
 Thanks for visiting.
 ```
