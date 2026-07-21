@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:kshrugalj@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -36,7 +32,7 @@ Thread: Intelligence + Cybersecurity
 
 Building:
 → AI Systems
-→ Full-Stack Applications
+→ Distributed Applications
 → Secure Software
 
 Currently:
@@ -46,52 +42,138 @@ Currently:
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,go,react,nextjs,nodejs,fastapi,aws,docker,firebase,mongodb"/>
-</p>
+## Languages
+
+```
+Python
+Java
+TypeScript
+JavaScript
+Go
+Swift
+Dart
+HTML/CSS
+SQL
+```
+
+## Frameworks & Libraries
+
+```
+React
+Next.js
+Node.js
+NestJS
+FastAPI
+Flutter
+Tailwind CSS
+Vue.js
+Prisma
+PyGame
+Tkinter
+```
+
+## Cloud, Databases & Infrastructure
+
+```
+AWS
+Vercel
+Firebase
+Supabase
+MongoDB
+MySQL
+Docker
+Git
+Linux
+```
+
+## AI, Data & Security
+
+```
+Machine Learning
+Computer Vision
+AI Agents
+LLM Applications
+Data Processing
+Cybersecurity
+System Hardening
+Cloud Security
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏦 Nexor Technologies
+## 🏫 AdmitX (formerly MirAI)
 
-AI-powered platform automating trust and financial workflows for law firms.
+AI-powered admissions intelligence platform designed to improve the college application process.
 
-**Focus:**
-- AI automation
-- Financial data integrations
-- Scalable backend systems
-
----
-
-## 🧠 MirAI
-
-AI project developed during YC VibeCon '25.
-
-🏆 **Top 25 / 2,000+ applicants**  
-📍 Built at Y Combinator HQ
-
----
-
-## 👁️ OralScan
-
-Computer vision healthcare screening tool.
-
-🥈 **Congressional App Challenge**  
-AI + Computer Vision + Healthcare
-
----
-
-## 🎵 AitheriA
-
-Full-stack music-tech crowdfunding platform.
-
-**Stack:**
+**Built with:**
 
 ```
+AI Systems
+Full-Stack Development
+Data Processing
+User-Centered Design
+```
+
+🏆 YC VibeCon '25 — Top 25 / 2,000+ applicants
+📍 Built at Y Combinator Headquarters
+
+---
+
+## 🧠 Recall
+
+AI-powered cognitive assistant focused on memory augmentation and intelligent information retrieval.
+
+**Focus:**
+
+```
+→ AI Interfaces
+→ Knowledge Management
+→ Human-Computer Interaction
+→ Personalized Intelligence
+```
+
+🏆 HogHacks Finalist
+
+---
+
+## 💬 VibeTexting
+
+Human-computer interaction project exploring intelligent communication and next-generation messaging experiences.
+
+**Focus:**
+
+```
+→ AI Communication
+→ UX Engineering
+→ Social Computing
+→ Interactive Systems
+```
+
+---
+
+# 💼 Experience
+
+```bash
+kshrugal@gt-core:~$ cat experience.log
+```
+
+## Chief Architect Intern — AitheriA
+
+```
+2026
+
+Built a full-stack music-tech crowdfunding platform.
+
+Responsibilities:
+→ Designed application architecture
+→ Developed production features
+→ Built deployment pipelines
+
+Stack:
 Next.js
 TypeScript
 Vercel
@@ -100,50 +182,67 @@ Resend API
 
 ---
 
-# 💼 Experience
+## Software Engineer Intern — WayPave
 
-```text
-Chief Architect
-AitheriA (2026)
+```
+2025
 
-→ Built full-stack music-tech platform
-→ Next.js + TypeScript ecosystem
+Built real-time hiring telemetry dashboards.
 
-
-Software Engineer Intern
-WayPave (2025)
-
-→ Built hiring telemetry dashboard
-→ Vue.js + Firebase
-
-
-Frontend Developer Intern
-Velric (2025)
-
-→ Developed optimized frontend interfaces
-
-
-Information Security Intern
-Arvest Bank (2025)
-
-→ Built cybersecurity awareness systems
+Stack:
+Vue.js
+Firebase
+Frontend Systems
+Data Visualization
 ```
 
 ---
 
-# 🏆 Highlights
+## Frontend Developer Intern — Velric
 
-```text
+```
+2025
+
+Developed optimized user interfaces
+with modern frontend architectures.
+```
+
+---
+
+## Information Security Intern — Arvest Bank
+
+```
+2025
+
+Built cybersecurity awareness systems.
+
+Focus:
+→ Security education
+→ Ransomware awareness
+→ Enterprise security workflows
+```
+
+---
+
+# 🏛️ Legacy
+
+```bash
+kshrugal@gt-core:~$ cat legacy.log
+```
+
+```
 🥇 Arvest Hackathon
-   1st Place — Multilingual Financial AI Bot
+   1st Place
+   Multilingual Financial AI Bot
 
 
 🏆 YC VibeCon '25
    Top 25 / 2,000+ applicants
-   Built MirAI at YC HQ
+   MirAI @ Y Combinator HQ
 
 
 🥈 Congressional App Challenge
+   Arkansas District 3
    OralScan Computer Vision Tool
 
 
@@ -152,21 +251,12 @@ Arvest Bank (2025)
 
 
 🏅 Arkansas Scholastic Honor Student
+   Selected as one of ~500 students statewide
 
 
 🎓 Bentonville Schools Foundation
    Academic Signing Recipient
 ```
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kshrugalj&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
