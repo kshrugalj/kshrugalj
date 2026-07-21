@@ -1,156 +1,137 @@
 <div align="center">
 
 # ⚡ KSHRUGAL JANGALAPALLI ⚡
-### **CS @ Georgia Tech (Intelligence & Cybersecurity) | Incoming @ GT HackerHouse S2**
+### **<code>CS @ Georgia Tech (Intelligence & Cybersecurity)</code>** • **<code>Incoming @ GT HackerHouse S2</code>**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kr_jangalapalli) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kshrugalj) &nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/kshrugalj) &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kshrugalj@gmail.com)
-
-</div>
-
----
-
-## 🦾 About Me
-* **Current Coordinates:** Atlanta, GA / Northwest Arkansas roots
-* **The Mission:** Engineering hyper-scalable distributed systems, artificial intelligence pipelines, and next-gen software platforms
-* **Current Focus:** Scaling **Nexor Technologies** & driving **VibeTexting**
-* **Pedigree:** Full-stack engineer, multi-time hackathon winner, and security researcher
-
----
-
-## 🛠️ The Arsenal
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="center">
+  <a href="https://instagram.com/kr_jangalapalli"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/kshrugalj"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="https://x.com/kshrugalj"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="mailto:kshrugalj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### **Frameworks & Architecture**
+</div>
+
+<hr>
+
+<pre><code>// SYSTEM STATUS: ONLINE // COORDINATES: ATLANTA, GA
+const kshrugal = {
+  mission: "Architecting hyper-scalable distributed systems & AI neural pipelines.",
+  focus: ["Nexor Technologies", "VibeTexting"],
+  clearance: ["Full-Stack Engineering", "Cybersecurity Research", "Algorithmic Warfare"]
+};
+</code></pre>
+
+<hr>
+
+## ⚙️ THE ARSENAL
+
+### **// LANGUAGES**
 <p>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
-### **Infrastructure, Cloud & Databases**
+### **// FRAMEWORKS & ARCHITECTURE**
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
----
+### **// INFRASTRUCTURE & CLOUD**
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
+</p>
 
-## 💼 Professional Experience & Leadership
+<hr>
 
-* **Chief Architect @ AitheriA** *(Jan 2026 – May 2026)*
-  * Built a full-stack music-tech crowdfunding and landing platform using Next.js, TypeScript, and Tailwind CSS.
-  * Engineered a modular architecture featuring custom CSS animations and a soundbar visualizer for immersive user engagement.
-  * Integrated the Resend API for automated secure contact form processing and optimized CI/CD pipelines via Vercel.
+## 💼 DEPLOYMENT HISTORY
 
-* **Frontend Developer Intern @ Velric** *(Sep 2025 – Nov 2025)*
-  * Implemented core website pages (Home, Contact) using Next.js, TypeScript, and Tailwind CSS focusing on responsive UI and SSR performance.
+* **`2026.01 - 2026.05`** &mdash; **Chief Architect @ AitheriA**
+  * Engineered a full-stack music-tech crowdfunding platform using Next.js, TypeScript, and Tailwind CSS.
+  * Implemented modular architecture with custom CSS animations, soundbar visualizers, and Resend API automation deployed via Vercel.
+* **`2025.09 - 2025.11`** &mdash; **Frontend Developer Intern @ Velric**
+  * Built high-performance core web modules (Home, Contact) utilizing server-side rendering (SSR) for optimal SEO and interface fluidity.
+* **`2025.06 - 2025.08`** &mdash; **Software Engineer Intern @ WayPave**
+  * Delivered a full-stack hiring analytics suite utilizing a real-time Firebase backend paired with a Vue.js telemetry dashboard.
+* **`2025.01 - 2025.05`** &mdash; **Information Security Intern @ Arvest Bank**
+  * Developed an enterprise-wide ransomware security awareness matrix and integrated an interactive JavaScript training engine into corporate LMS pipelines.
+* **`2024.08 - 2026.05`** &mdash; **Technology Student & Researcher @ Ignite Professional Studies**
+  * Spearheaded advanced labs across *Computer Vision (Zebra Technologies Hawk-Eye)*, *Cybersecurity Threat Modeling (OBU)*, *Urban Traffic Telemetry*, and *Immersive VR (Crystal Bridges)*.
 
-* **Software Engineer Intern @ WayPave** *(Jun 2025 – Aug 2025)*
-  * Developed a full-stack hiring analytics platform utilizing a Firebase backend for real-time updates and a Vue.js + Tailwind CSS frontend.
+<hr>
 
-* **Information Security Intern @ Arvest Bank** *(Jan 2025 – May 2025)*
-  * Led the development of an enterprise-wide ransomware security awareness training program integrated with corporate LMS.
-  * Built an interactive JavaScript/HTML/CSS web game to simplify complex threat mitigation concepts.
+## 📜 VERIFIED PROTOCOLS (CERTIFICATIONS)
 
-* **Technology Student & Researcher @ Ignite Professional Studies** *(Aug 2024 – May 2026)*
-  * **Sensory Experience Design:** Engineered the Yin and Yang Sensory Room focusing on accessibility, lighting layouts, and emotional regulation.
-  * **Computer Vision & Sports Tech:** Researched Hawk-Eye object tracking models with Zebra Technologies for sports analytics.
-  * **Cybersecurity Research:** Analyzed network security vulnerabilities and threat models in collaboration with Oklahoma Baptist University (OBU).
-  * **Traffic Optimization:** Evaluated urban mobility and signal timing efficiency with the Bentonville Traffic Unit.
-  * **VR & Cultural Tech:** Designed an immersive first-person kayaking experience (*Flow*) for Crystal Bridges Museum of American Art.
-  * **AI Healthcare & OCR:** Built automated OCR text-extraction pipelines via pytesseract and MuPDF (*LexMed*) and conceptualized VR medical education tools (*NurseAI*).
+* `AWS-CC-2029` **AWS Certified Cloud Practitioner** *(Amazon Web Services)* &bull; ID: `1a72f0cb-06d3-478b-b8b9-e32d41b59098`
+* `SEC-GOV-2025` **Google Cybersecurity Specialization** *(Google)* &bull; ID: `IZD411KKDODF`
+* `JAVA-PEC-2024` **IT Specialist - Java** *(Certiport / Pearson VUE)*
 
----
+<hr>
 
-## 📜 Industry Certifications & Credentials
+## 🏆 BATTLEFIELD HONORS & CONQUESTS
 
-* **AWS Certified Cloud Practitioner** *(Amazon Web Services, Apr 2026 – Apr 2029)* | ID: `1a72f0cb-06d3-478b-b8b9-e32d41b59098`
-* **Google Cybersecurity Specialization** *(Google, Feb 2025)* | ID: `IZD411KKDODF`
-* **IT Specialist - Java** *(Certiport - Pearson VUE, Apr 2024)*
+* **`YC VibeCon (2025)`** &mdash; **Top 25 Overall** (Selected out of 2,000+ builders to launch *MirAI* at Y Combinator HQ).
+* **`Congressional App Challenge (2025)`** &mdash; **2nd Place (Arkansas District 3)** for *OralScan* (Computer vision medical diagnostic tool).
+* **`Arvest Hackathon (2024)`** &mdash; **1st Place** (Engineered an enterprise multilingual financial intelligence translation bot).
+* **`HogHacks (2025, 2026)`** &mdash; **Back-to-Back 4th Place Finalist** (*Recall* cognitive DAW & *ChakraClash* AI fitness).
+* **`NexHacks (2026)`** &mdash; **Global Qualifier** (Top 800 accepted out of 7,000+ applicants to present *AdmitX* at CMU).
+* **`CyberPatriot (2024, 2025)`** &mdash; **2nd Place Platinum Division & Top 5 Gold** (Advanced system hardening & defense routing).
+* **`Academic Distinction`** &mdash; Arkansas Scholastic Honor Student (Governor's Mansion Honoree) & Bentonville Foundation Top 20 Academic Signee.
 
----
+<hr>
 
-## 🏆 Elite Technical Conquests & Honors Ledger
-
-* **YC VibeCon (2025) - Top 25 Overall:** Selected from 2,000+ global applicants to build *MirAI* live at Y Combinator HQ.
-* **Congressional App Challenge (2025) - 2nd Place:** Awarded by the U.S. Congress for building *OralScan*, an advanced computer vision health screening tool.
-* **Arvest Hackathon (2024) - 1st Place:** Engineered an enterprise multilingual financial AI chatbot.
-* **HogHacks (2025, 2026) - Back-to-Back 4th Place Finalist:** Developed *Recall* (cognitive digital audio workstation) and *ChakraClash* (AI fitness platform).
-* **NexHacks (2026) - Global Qualifier:** Accepted as one of 800 finalists out of 7,000+ global applicants to showcase *AdmitX* at Carnegie Mellon University.
-* **CyberPatriot State Finalist (2024, 2025):** Secured Top 5 in Gold Division and 2nd Place in Platinum Division for advanced infrastructure defense and system hardening.
-* **U of A Programming Competition (2025, 2026):** Placed 5th and 8th among elite regional collegiate and high school teams.
-* **All-Regional Coding Competition (2024):** State Qualifier, ranked 12th regionally in competitive algorithmic programming.
-* **Arkansas Computer Science Student of Distinction:** Statewide recognition for an elite technical development portfolio and applied architecture awards.
-* **ACTM State Calculus (2024):** Ranked Top 20 across the state of Arkansas.
-* **AMC 10 (2024):** 2nd Place at Bentonville West High School.
-* **DECA State Finalist (2025):** Placed Top 6 for an AI operations research model and 4th for a business development initiative.
-
----
-
-## 📊 GitHub Telemetry & Stats
+## 📊 TELEMETRY & METRICS
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kshrugalj&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com?user=kshrugalj&theme=synthwave&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshrugalj&theme=synthwave&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=kshrugalj&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=kshrugalj&theme=synthwave&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshrugalj&theme=synthwave&hide_border=false&layout=compact" />
 
 </div>
 
-### 📈 Activity Graph & Insights
+### **// ACTIVITY MATRIX**
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kshrugalj&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshrugalj&theme=react-dark&hide_border=true" />
 
 </div>
 
-### 🧠 Language Ecosystem & Profile Deep-Dive
+### **// SYSTEM SUMMARY**
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshrugalj&theme=synthwave)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshrugalj&theme=synthwave)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshrugalj&theme=synthwave" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kshrugalj&theme=synthwave" />
 
 </div>
 
-### ✍️ Developer Directive
+### **// DIRECTIVE LOG**
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 
 </div>
 
----
+<hr>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=kshrugalj&icon=1&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=kshrugalj&icon=1&color=6" /></a>
 
 </div>
