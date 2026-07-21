@@ -13,14 +13,20 @@ jobs:
       contents: write
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: kshrugalj
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Upload snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist/github-contribution-grid-snake.svg"
-          message: "Update contribution snake"
+      - name: Commit snake
+        run: |
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || exit 0
+          git push
