@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=kshrugal%40gt-core%3A~%24+whoami;Computer+Science+%40+Georgia+Tech;Intelligence+%2B+Cybersecurity;GT+HackerHouse+S2;Building+AI+%26+Distributed+Systems;Always+Shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=kshrugal%40gt-core%3A~%24+whoami;CS+%40+Georgia+Tech;Intelligence+%2B+Cybersecurity;Building+AI+%26+Distributed+Systems" />
 
 <br>
 
@@ -35,8 +35,8 @@ Computer Science @ Georgia Tech
 Thread: Intelligence + Cybersecurity
 
 Building:
-→ AI Products
-→ Distributed Systems
+→ AI Systems
+→ Full-Stack Applications
 → Secure Software
 
 Currently:
@@ -48,203 +48,94 @@ Currently:
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,go,react,nextjs,nodejs,fastapi,flutter,aws,docker,firebase,mongodb" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,go,react,nextjs,nodejs,fastapi,aws,docker,firebase,mongodb"/>
+</p>
 
 ---
 
-## 🧠 Engineering Focus
+# 🚀 Featured Projects
 
-```text
-Artificial Intelligence
-├── Machine Learning
-├── Computer Vision
-├── AI Applications
+## 🏦 Nexor Technologies
 
-Cybersecurity
-├── Secure Systems
-├── Security Research
-├── Infrastructure
+AI-powered platform automating trust and financial workflows for law firms.
 
-Software Engineering
-├── Full-Stack Development
-├── Cloud Architecture
-├── Distributed Systems
-```
+**Focus:**
+- AI automation
+- Financial data integrations
+- Scalable backend systems
 
 ---
 
-## ⚡ Current Status
-
-```bash
-kshrugal@gt-core:~$ systemctl status profile
-```
-
-```text
-● kshrugal.service
-
-Status:
-    ACTIVE
-
-Primary Node:
-    Georgia Institute of Technology
-
-Current Missions:
-    ✓ Building Nexor Technologies
-    ✓ Exploring AI Systems
-    ✓ Developing Secure Software
-    ✓ Learning Distributed Architecture
-```
-
----
-
-## 🚀 Featured Projects
-
-```bash
-kshrugal@gt-core:~$ ls ./projects
-```
-
----
-
-### 🏦 Nexor Technologies
-
-**Status:** 🟢 Active Development
-
-AI-powered platform helping law firms automate trust and financial workflows.
-
-**Building:**
-```text
-→ AI-powered workflows
-→ Financial data integrations
-→ Scalable backend infrastructure
-→ Automation systems
-```
-
----
-
-### 🧠 MirAI
-
-**Status:** ✅ Shipped
+## 🧠 MirAI
 
 AI project developed during YC VibeCon '25.
 
-```text
-Achievement:
-🏆 Top 25 / 2,000+ applicants
-
-Location:
-Y Combinator Headquarters
-```
+🏆 **Top 25 / 2,000+ applicants**  
+📍 Built at Y Combinator HQ
 
 ---
 
-### 👁️ OralScan
-
-**Status:** ✅ Completed
+## 👁️ OralScan
 
 Computer vision healthcare screening tool.
 
-```text
-Achievement:
-🥈 Congressional App Challenge
-Arkansas District 3
-
-Focus:
+🥈 **Congressional App Challenge**  
 AI + Computer Vision + Healthcare
-```
 
 ---
 
-### 💬 VibeTexting
-
-**Status:** 🟢 Active
-
-Human-computer interaction project exploring intelligent communication systems.
-
-```text
-Focus:
-→ AI Interfaces
-→ User Experience
-→ Social Computing
-```
-
----
-
-### 🎵 AitheriA
-
-**Status:** ✅ Deployed
+## 🎵 AitheriA
 
 Full-stack music-tech crowdfunding platform.
 
-```text
-Stack:
-→ Next.js
-→ TypeScript
-→ Vercel
-→ Resend API
+**Stack:**
 
-Built:
-→ Custom soundbar visualizers
-→ Production deployment pipeline
+```
+Next.js
+TypeScript
+Vercel
+Resend API
 ```
 
 ---
 
-# 💼 Experience Timeline
-
-```bash
-kshrugal@gt-core:~$ cat experience.log
-```
+# 💼 Experience
 
 ```text
-2026
-│
-├── Chief Architect @ AitheriA
-│
-│   Built full-stack music-tech platform
-│   using Next.js + TypeScript.
-│
-├── GT HackerHouse S2
-│
-│   Intelligence + Cybersecurity track
-│
-│
-2025
-│
-├── Frontend Developer Intern @ Velric
-│
-│   Built optimized interfaces
-│   with modern frontend architecture.
-│
-├── Software Engineer Intern @ WayPave
-│
-│   Developed real-time hiring
-│   telemetry dashboard.
-│
-│   Stack:
-│   Vue.js + Firebase
-│
-└── Information Security Intern @ Arvest Bank
-│
-    Built cybersecurity awareness
-    systems and training workflows.
+Chief Architect
+AitheriA (2026)
+
+→ Built full-stack music-tech platform
+→ Next.js + TypeScript ecosystem
+
+
+Software Engineer Intern
+WayPave (2025)
+
+→ Built hiring telemetry dashboard
+→ Vue.js + Firebase
+
+
+Frontend Developer Intern
+Velric (2025)
+
+→ Developed optimized frontend interfaces
+
+
+Information Security Intern
+Arvest Bank (2025)
+
+→ Built cybersecurity awareness systems
 ```
 
 ---
 
-# 🏆 Achievement Log
-
-```bash
-kshrugal@gt-core:~$ cat achievements.log
-```
+# 🏆 Highlights
 
 ```text
 🥇 Arvest Hackathon
-   1st Place
-   Multilingual Financial AI Bot
+   1st Place — Multilingual Financial AI Bot
 
 
 🏆 YC VibeCon '25
@@ -253,7 +144,6 @@ kshrugal@gt-core:~$ cat achievements.log
 
 
 🥈 Congressional App Challenge
-   Arkansas District 3
    OralScan Computer Vision Tool
 
 
@@ -270,85 +160,13 @@ kshrugal@gt-core:~$ cat achievements.log
 
 ---
 
-# 🔬 Research Interests
-
-```bash
-kshrugal@gt-core:~$ cat research.txt
-```
-
-```text
-→ Artificial Intelligence
-→ Computer Vision
-→ Cybersecurity
-→ Distributed Systems
-→ Human Computer Interaction
-→ Cloud Infrastructure
-```
-
----
-# 📊 GitHub Analytics
-
-```bash
-kshrugal@gt-core:~$ neofetch --github
-```
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kshrugalj&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshrugalj&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=kshrugalj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshrugalj&theme=github-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Matrix
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kshrugalj/kshrugalj/main/dist/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🎯 Current Objectives
-
-```bash
-kshrugal@gt-core:~$ cat roadmap.txt
-```
-
-```text
-CURRENTLY BUILDING
-
-✓ Georgia Tech Computer Science
-✓ GT HackerHouse S2
-✓ Nexor Technologies
-
-LEARNING:
-
-→ AI Infrastructure
-→ Distributed Systems
-→ Cybersecurity
-→ Cloud Architecture
-→ Systems Programming
-
-MISSION:
-
-Build technology that reaches millions.
-```
 
 ---
 
@@ -357,16 +175,9 @@ Build technology that reaches millions.
 ```bash
 kshrugal@gt-core:~$ exit
 
-Closing connection...
-
-Saving session...
 Connection terminated.
 
 Thanks for visiting.
 ```
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kshrugalj&style=for-the-badge&color=blue"/>
 
 </div>
